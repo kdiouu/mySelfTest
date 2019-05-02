@@ -13,7 +13,7 @@ public class SimpleServlet extends HttpServlet {
 
 	@Override
 	protected void doGet(HttpServletRequest req, HttpServletResponse resp) throws ServletException, IOException {
-		System.out.println("這是doGet()方法印出的訊息");
+		System.out.println("這是doGet()方法印出的訊息一");
 	}
 
 	@Override
