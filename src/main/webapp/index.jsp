@@ -10,5 +10,6 @@
 <h1>JSP 課堂作業</h1>
 <a href = "ch01/queryLottery.jsp">問單一明牌</a><p/>
 <a href = "ch01/queryLottery2.jsp">問多種明牌</a><p/>
+<a href = "ch01/testsimplenumber.jsp">請點我</a>
 </body>
 </html>
