@@ -39,4 +39,26 @@
 		<nature>org.eclipse.wst.common.project.facet.core.nature</nature>
 		<nature>org.eclipse.wst.jsdt.core.jsNature</nature>
 	</natures>
+	<linkedResources>
+		<link>
+			<name>src/main/java/test01/EmpBean.java</name>
+			<type>1</type>
+			<location>F:/JDBC/workspace/Ormapping/src/orm/EmpBean.java</location>
+		</link>
+		<link>
+			<name>src/main/java/test01/EmpDAO.java</name>
+			<type>1</type>
+			<location>F:/JDBC/workspace/Ormapping/src/orm/EmpDAO.java</location>
+		</link>
+		<link>
+			<name>src/main/java/test01/EmpDAODemo.java</name>
+			<type>1</type>
+			<location>F:/JDBC/workspace/Ormapping/src/orm/EmpDAODemo.java</location>
+		</link>
+		<link>
+			<name>src/main/java/test01/IEmpDAO.java</name>
+			<type>1</type>
+			<location>F:/JDBC/workspace/Ormapping/src/orm/IEmpDAO.java</location>
+		</link>
+	</linkedResources>
 </projectDescription>

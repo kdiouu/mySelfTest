@@ -10,7 +10,7 @@
 <h2>卜籤求明牌</h2>
 ${visitname},您好,<br>
   <%="九九乘法表<BR>"%> 
-    <table border=30 >    
+    <table border=3 >    
     <%
     for(int i=1; i<=9;i++)
     { 

@@ -11,5 +11,6 @@
 <a href = "ch01/queryLottery.jsp">問單一明牌</a><p/>
 <a href = "ch01/queryLottery2.jsp">問多種明牌</a><p/>
 <a href = "ch01/testsimplenumber.jsp">請點我</a>
+<a href = "test01/testupdate.jsp">更新資料</a>
 </body>
 </html>
